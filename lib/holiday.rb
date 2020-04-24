@@ -85,17 +85,7 @@ end
 #  end
 #end
 #end
-def all_supplies_in_holidays(holiday_hash)
-  holiday_hash.each do |key, thing|
-    puts "#{thing} + #{':'}" 
-    thing.each do [holiday, to_do]
-    puts holiday + ": "
-    to_do.each do value
-    puts value 
-        end
-        end
-    end
-end
+
 
 
 
